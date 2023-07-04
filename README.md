@@ -1,7 +1,7 @@
 # Regression-Analysis
 Regression analysis course, Fall 2022, UNAL
 
-In this repository you will find some applications of classical and statistical learning approaches of linear regression analysis. Also there is a initial description to the problem and answers to written exams.
+In this repository you will find some applications of classical and statistical learning approaches of linear regression analysis. Also there is an initial description to the problem and answers to written exams.
 
 * [*Answers to theoretical exams*](https://github.com/jdcarrascali/Regression-Analysis/tree/main/Examenes%20escritos): Derivation of estimators, revision of the theory and proofs.
 
